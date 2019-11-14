@@ -1,0 +1,5 @@
+com\howtodoinjava\rest\exception\MissingHeaderException.class
+com\howtodoinjava\rest\exception\ErrorResponse.class
+com\howtodoinjava\rest\exception\CustomExceptionHandler.class
+com\howtodoinjava\rest\controller\SilgeController.class
+com\howtodoinjava\rest\SpringBootSilgeApplication.class
